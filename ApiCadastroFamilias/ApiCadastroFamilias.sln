@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiCadastroFamilias", "ApiCadastroFamilias\ApiCadastroFamilias.csproj", "{B4D0577B-0FFC-4352-A667-D647EB9800FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4D0577B-0FFC-4352-A667-D647EB9800FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D0577B-0FFC-4352-A667-D647EB9800FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D0577B-0FFC-4352-A667-D647EB9800FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D0577B-0FFC-4352-A667-D647EB9800FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8B1FFED-2DCE-48BD-87E6-592F3F4CC3C0}
+	EndGlobalSection
+EndGlobal
